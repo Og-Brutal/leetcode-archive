@@ -1,0 +1,50 @@
+# 📚 LeetCode Solutions Archive
+
+Welcome to my personal archive of LeetCode solutions! This repository is organized systematically by category, language, and problem type to track progress, document optimized approaches, and store clean, well-documented code.
+
+---
+
+## 📂 Repository Structure
+
+The repository is structured logically to keep questions and solutions modular:
+
+```text
+├── .gitignore
+├── README.md
+└── Database_Questions/                  # Database / SQL questions
+    ├── 177_Nth_Highest_Salary/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.sql                 # SQL Query Solution
+    └── 180_Consecutive_Numbers/
+        ├── README.md                    # Question details & examples
+        └── solution.sql                 # SQL Query Solution
+```
+
+---
+
+## 📊 Solution Progress
+
+Below is the list of solved problems, categorized by domain and difficulty.
+
+### 🗄️ Database & SQL Questions
+
+| # | Problem | Difficulty | Category | Solutions |
+| :--- | :--- | :---: | :---: | :---: |
+| 177 | [Nth Highest Salary](./Database_Questions/177_Nth_Highest_Salary/) | 🟡 Medium | SQL / MySQL | [SQL](./Database_Questions/177_Nth_Highest_Salary/solution.sql) |
+| 180 | [Consecutive Numbers](./Database_Questions/180_Consecutive_Numbers/) | 🟡 Medium | SQL / MySQL | [SQL](./Database_Questions/180_Consecutive_Numbers/solution.sql) |
+
+---
+
+## 🛠️ Tech Stack & Tools Used
+
+- **SQL / Relational Databases:** MySQL, PostgreSQL
+- **Git & GitHub:** For version control and tracking progress
+
+---
+
+## 🚀 How to Use
+
+1. Navigate to the folder corresponding to the problem domain (e.g., `Database_Questions`).
+2. Inside each problem folder, you will find:
+   - A `README.md` describing the problem details, constraints, and examples.
+   - The query or code file (e.g., `solution.sql`) with the clean, tested code.
