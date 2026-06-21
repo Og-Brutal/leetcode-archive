@@ -21,7 +21,13 @@ The repository is structured logically to keep questions and solutions modular:
     ├── 178_Rank_Scores/
     │   ├── README.md                    # Question details & examples
     │   └── solution.sql                 # SQL Query Solution
-    └── 180_Consecutive_Numbers/
+    ├── 180_Consecutive_Numbers/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.sql                 # SQL Query Solution
+    ├── 181_Employees_Earning_More_Than_Their_Managers/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.sql                 # SQL Query Solution
+    └── 182_Duplicate_Emails/
         ├── README.md                    # Question details & examples
         └── solution.sql                 # SQL Query Solution
 ```
@@ -40,6 +46,8 @@ Below is the list of solved problems, categorized by domain and difficulty.
 | 177 | [Nth Highest Salary](./Database_Questions/177_Nth_Highest_Salary/) | 🟡 Medium | SQL / MySQL | [SQL](./Database_Questions/177_Nth_Highest_Salary/solution.sql) |
 | 178 | [Rank Scores](./Database_Questions/178_Rank_Scores/) | 🟡 Medium | SQL / MySQL | [SQL](./Database_Questions/178_Rank_Scores/solution.sql) |
 | 180 | [Consecutive Numbers](./Database_Questions/180_Consecutive_Numbers/) | 🟡 Medium | SQL / MySQL | [SQL](./Database_Questions/180_Consecutive_Numbers/solution.sql) |
+| 181 | [Employees Earning More Than Their Managers](./Database_Questions/181_Employees_Earning_More_Than_Their_Managers/) | 🟢 Easy | SQL / MySQL | [SQL](./Database_Questions/181_Employees_Earning_More_Than_Their_Managers/solution.sql) |
+| 182 | [Duplicate Emails](./Database_Questions/182_Duplicate_Emails/) | 🟢 Easy | SQL / MySQL | [SQL](./Database_Questions/182_Duplicate_Emails/solution.sql) |
 
 ---
 
@@ -56,4 +64,5 @@ Below is the list of solved problems, categorized by domain and difficulty.
 2. Inside each problem folder, you will find:
    - A `README.md` describing the problem details, constraints, and examples.
    - The query or code file (e.g., `solution.sql`) with the clean, tested code.
+
 
