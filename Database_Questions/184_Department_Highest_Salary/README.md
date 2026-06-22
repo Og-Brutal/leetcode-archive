@@ -6,7 +6,7 @@
 
 Table: `Employee`
 
-| Column Name | Type |
+| Column Name | Type | 
 | :--- | :--- |
 | id | int | 
 | name | varchar |
