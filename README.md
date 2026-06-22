@@ -27,7 +27,13 @@ The repository is structured logically to keep questions and solutions modular:
     ├── 181_Employees_Earning_More_Than_Their_Managers/
     │   ├── README.md                    # Question details & examples
     │   └── solution.sql                 # SQL Query Solution
-    └── 182_Duplicate_Emails/
+    ├── 182_Duplicate_Emails/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.sql                 # SQL Query Solution
+    ├── 183_Customers_Who_Never_Order/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.sql                 # SQL Query Solution
+    └── 184_Department_Highest_Salary/
         ├── README.md                    # Question details & examples
         └── solution.sql                 # SQL Query Solution
 ```
