@@ -8,7 +8,7 @@ Table: `Employee`
 
 | Column Name | Type |
 | :--- | :--- |
-| id | int |
+| id | int | 
 | name | varchar |
 | salary | int |
 | departmentId | int |
