@@ -54,6 +54,8 @@ Below is the list of solved problems, categorized by domain and difficulty.
 | 180 | [Consecutive Numbers](./Database_Questions/180_Consecutive_Numbers/) | 🟡 Medium | SQL / MySQL | [SQL](./Database_Questions/180_Consecutive_Numbers/solution.sql) |
 | 181 | [Employees Earning More Than Their Managers](./Database_Questions/181_Employees_Earning_More_Than_Their_Managers/) | 🟢 Easy | SQL / MySQL | [SQL](./Database_Questions/181_Employees_Earning_More_Than_Their_Managers/solution.sql) |
 | 182 | [Duplicate Emails](./Database_Questions/182_Duplicate_Emails/) | 🟢 Easy | SQL / MySQL | [SQL](./Database_Questions/182_Duplicate_Emails/solution.sql) |
+| 183 | [Customers Who Never Order](./Database_Questions/183_Customers_Who_Never_Order/) | 🟢 Easy | SQL / MySQL | [SQL](./Database_Questions/183_Customers_Who_Never_Order/solution.sql) |
+| 184 | [Department Highest Salary](./Database_Questions/184_Department_Highest_Salary/) | 🟡 Medium | SQL / MySQL | [SQL](./Database_Questions/184_Department_Highest_Salary/solution.sql) |
 
 ---
 
