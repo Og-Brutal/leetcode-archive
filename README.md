@@ -45,7 +45,13 @@ The repository is structured logically to keep questions and solutions modular:
     ├── 262_Trips_and_Users/
     │   ├── README.md                    # Question details & examples
     │   └── solution.sql                 # SQL Query Solution
-    └── 570_Managers_with_at_Least_5_Direct_Reports/
+    ├── 570_Managers_with_at_Least_5_Direct_Reports/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.sql                 # SQL Query Solution
+    ├── 577_Employee_Bonus/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.sql                 # SQL Query Solution
+    └── 584_Find_Customer_Referee/
         ├── README.md                    # Question details & examples
         └── solution.sql                 # SQL Query Solution
 ```
@@ -72,6 +78,8 @@ Below is the list of solved problems, categorized by domain and difficulty.
 | 197 | [Rising Temperature](./Database_Questions/197_Rising_Temperature/) | 🟢 Easy | SQL / MySQL | [SQL](./Database_Questions/197_Rising_Temperature/solution.sql) |
 | 262 | [Trips and Users](./Database_Questions/262_Trips_and_Users/) | 🔴 Hard | SQL / MySQL | [SQL](./Database_Questions/262_Trips_and_Users/solution.sql) |
 | 570 | [Managers with at Least 5 Direct Reports](./Database_Questions/570_Managers_with_at_Least_5_Direct_Reports/) | 🟡 Medium | SQL / MySQL | [SQL](./Database_Questions/570_Managers_with_at_Least_5_Direct_Reports/solution.sql) |
+| 577 | [Employee Bonus](./Database_Questions/577_Employee_Bonus/) | 🟢 Easy | SQL / MySQL | [SQL](./Database_Questions/577_Employee_Bonus/solution.sql) |
+| 584 | [Find Customer Referee](./Database_Questions/584_Find_Customer_Referee/) | 🟢 Easy | SQL / MySQL | [SQL](./Database_Questions/584_Find_Customer_Referee/solution.sql) |
 
 ---
 
