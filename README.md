@@ -11,49 +11,56 @@ The repository is structured logically to keep questions and solutions modular:
 ```text
 ├── .gitignore
 ├── README.md
-└── Database_Questions/                  # Database / SQL questions
-    ├── 175_Combine_Two_Tables/
-    │   ├── README.md                    # Question details & examples
-    │   └── solution.sql                 # SQL Query Solution
-    ├── 177_Nth_Highest_Salary/
-    │   ├── README.md                    # Question details & examples
-    │   └── solution.sql                 # SQL Query Solution
-    ├── 178_Rank_Scores/
-    │   ├── README.md                    # Question details & examples
-    │   └── solution.sql                 # SQL Query Solution
-    ├── 180_Consecutive_Numbers/
-    │   ├── README.md                    # Question details & examples
-    │   └── solution.sql                 # SQL Query Solution
-    ├── 181_Employees_Earning_More_Than_Their_Managers/
-    │   ├── README.md                    # Question details & examples
-    │   └── solution.sql                 # SQL Query Solution
-    ├── 182_Duplicate_Emails/
-    │   ├── README.md                    # Question details & examples
-    │   └── solution.sql                 # SQL Query Solution
-    ├── 183_Customers_Who_Never_Order/
-    │   ├── README.md                    # Question details & examples
-    │   └── solution.sql                 # SQL Query Solution
-    ├── 184_Department_Highest_Salary/
-    │   ├── README.md                    # Question details & examples
-    │   └── solution.sql                 # SQL Query Solution
-    ├── 185_Department_Top_Three_Salaries/
-    │   ├── README.md                    # Question details & examples
-    │   └── solution.sql                 # SQL Query Solution
-    ├── 197_Rising_Temperature/
-    │   ├── README.md                    # Question details & examples
-    │   └── solution.sql                 # SQL Query Solution
-    ├── 262_Trips_and_Users/
-    │   ├── README.md                    # Question details & examples
-    │   └── solution.sql                 # SQL Query Solution
-    ├── 570_Managers_with_at_Least_5_Direct_Reports/
-    │   ├── README.md                    # Question details & examples
-    │   └── solution.sql                 # SQL Query Solution
-    ├── 577_Employee_Bonus/
-    │   ├── README.md                    # Question details & examples
-    │   └── solution.sql                 # SQL Query Solution
-    └── 584_Find_Customer_Referee/
+├── Database_Questions/                  # Database / SQL questions
+│   ├── 175_Combine_Two_Tables/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   ├── 176_Second_Highest_Salary/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   ├── 177_Nth_Highest_Salary/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   ├── 178_Rank_Scores/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   ├── 180_Consecutive_Numbers/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   ├── 181_Employees_Earning_More_Than_Their_Managers/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   ├── 182_Duplicate_Emails/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   ├── 183_Customers_Who_Never_Order/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   ├── 184_Department_Highest_Salary/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   ├── 185_Department_Top_Three_Salaries/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   ├── 197_Rising_Temperature/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   ├── 262_Trips_and_Users/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   ├── 570_Managers_with_at_Least_5_Direct_Reports/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   ├── 577_Employee_Bonus/
+│   │   ├── README.md                    # Question details & examples
+│   │   └── solution.sql                 # SQL Query Solution
+│   └── 584_Find_Customer_Referee/
+│       ├── README.md                    # Question details & examples
+│       └── solution.sql                 # SQL Query Solution
+└── JavaScript_Questions/                # JavaScript questions
+    └── 2618_Check_if_Object_Instance_of_Class/
         ├── README.md                    # Question details & examples
-        └── solution.sql                 # SQL Query Solution
+        └── solution.js                  # JavaScript Solution
 ```
 
 ---
@@ -67,6 +74,7 @@ Below is the list of solved problems, categorized by domain and difficulty.
 | # | Problem | Difficulty | Category | Solutions |
 | :--- | :--- | :---: | :---: | :---: |
 | 175 | [Combine Two Tables](./Database_Questions/175_Combine_Two_Tables/) | 🟢 Easy | SQL / MySQL | [SQL](./Database_Questions/175_Combine_Two_Tables/solution.sql) |
+| 176 | [Second Highest Salary](./Database_Questions/176_Second_Highest_Salary/) | 🟡 Medium | SQL / MySQL | [SQL](./Database_Questions/176_Second_Highest_Salary/solution.sql) |
 | 177 | [Nth Highest Salary](./Database_Questions/177_Nth_Highest_Salary/) | 🟡 Medium | SQL / MySQL | [SQL](./Database_Questions/177_Nth_Highest_Salary/solution.sql) |
 | 178 | [Rank Scores](./Database_Questions/178_Rank_Scores/) | 🟡 Medium | SQL / MySQL | [SQL](./Database_Questions/178_Rank_Scores/solution.sql) |
 | 180 | [Consecutive Numbers](./Database_Questions/180_Consecutive_Numbers/) | 🟡 Medium | SQL / MySQL | [SQL](./Database_Questions/180_Consecutive_Numbers/solution.sql) |
@@ -81,11 +89,18 @@ Below is the list of solved problems, categorized by domain and difficulty.
 | 577 | [Employee Bonus](./Database_Questions/577_Employee_Bonus/) | 🟢 Easy | SQL / MySQL | [SQL](./Database_Questions/577_Employee_Bonus/solution.sql) |
 | 584 | [Find Customer Referee](./Database_Questions/584_Find_Customer_Referee/) | 🟢 Easy | SQL / MySQL | [SQL](./Database_Questions/584_Find_Customer_Referee/solution.sql) |
 
+### 🟨 JavaScript Questions
+
+| # | Problem | Difficulty | Category | Solutions |
+| :--- | :--- | :---: | :---: | :---: |
+| 2618 | [Check if Object Instance of Class](./JavaScript_Questions/2618_Check_if_Object_Instance_of_Class/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2618_Check_if_Object_Instance_of_Class/solution.js) |
+
 ---
 
 ## 🛠️ Tech Stack & Tools Used
 
 - **SQL / Relational Databases:** MySQL, PostgreSQL
+- **JavaScript:** ES6+, Node.js
 - **Git & GitHub:** For version control and tracking progress
 
 ---
