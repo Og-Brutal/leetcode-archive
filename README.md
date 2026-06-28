@@ -58,7 +58,13 @@ The repository is structured logically to keep questions and solutions modular:
 │       ├── README.md                    # Question details & examples
 │       └── solution.sql                 # SQL Query Solution
 └── JavaScript_Questions/                # JavaScript questions
-    └── 2618_Check_if_Object_Instance_of_Class/
+    ├── 2618_Check_if_Object_Instance_of_Class/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.js                  # JavaScript Solution
+    ├── 2619_Array_Prototype_Last/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.js                  # JavaScript Solution
+    └── 2620_Counter/
         ├── README.md                    # Question details & examples
         └── solution.js                  # JavaScript Solution
 ```
@@ -94,6 +100,8 @@ Below is the list of solved problems, categorized by domain and difficulty.
 | # | Problem | Difficulty | Category | Solutions |
 | :--- | :--- | :---: | :---: | :---: |
 | 2618 | [Check if Object Instance of Class](./JavaScript_Questions/2618_Check_if_Object_Instance_of_Class/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2618_Check_if_Object_Instance_of_Class/solution.js) |
+| 2619 | [Array Prototype Last](./JavaScript_Questions/2619_Array_Prototype_Last/) | 🟢 Easy | JavaScript | [JS](./JavaScript_Questions/2619_Array_Prototype_Last/solution.js) |
+| 2620 | [Counter](./JavaScript_Questions/2620_Counter/) | 🟢 Easy | JavaScript | [JS](./JavaScript_Questions/2620_Counter/solution.js) |
 
 ---
 
@@ -111,6 +119,7 @@ Below is the list of solved problems, categorized by domain and difficulty.
 2. Inside each problem folder, you will find:
    - A `README.md` describing the problem details, constraints, and examples.
    - The query or code file (e.g., `solution.sql`) with the clean, tested code.
+
 
 
 
