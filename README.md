@@ -70,7 +70,13 @@ The repository is structured logically to keep questions and solutions modular:
     ├── 2621_Sleep/
     │   ├── README.md                    # Question details & examples
     │   └── solution.js                  # JavaScript Solution
-    └── 2622_Cache_With_Time_Limit/
+    ├── 2622_Cache_With_Time_Limit/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.js                  # JavaScript Solution
+    ├── 2623_Memoize/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.js                  # JavaScript Solution
+    └── 2624_Snail_Traversal/
         ├── README.md                    # Question details & examples
         └── solution.js                  # JavaScript Solution
 ```
@@ -110,6 +116,8 @@ Below is the list of solved problems, categorized by domain and difficulty.
 | 2620 | [Counter](./JavaScript_Questions/2620_Counter/) | 🟢 Easy | JavaScript | [JS](./JavaScript_Questions/2620_Counter/solution.js) |
 | 2621 | [Sleep](./JavaScript_Questions/2621_Sleep/) | 🟢 Easy | JavaScript | [JS](./JavaScript_Questions/2621_Sleep/solution.js) |
 | 2622 | [Cache With Time Limit](./JavaScript_Questions/2622_Cache_With_Time_Limit/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2622_Cache_With_Time_Limit/solution.js) |
+| 2623 | [Memoize](./JavaScript_Questions/2623_Memoize/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2623_Memoize/solution.js) |
+| 2624 | [Snail Traversal](./JavaScript_Questions/2624_Snail_Traversal/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2624_Snail_Traversal/solution.js) |
 
 ---
 
@@ -127,6 +135,7 @@ Below is the list of solved problems, categorized by domain and difficulty.
 2. Inside each problem folder, you will find:
    - A `README.md` describing the problem details, constraints, and examples.
    - The query or code file (e.g., `solution.sql`) with the clean, tested code.
+
 
 
 
