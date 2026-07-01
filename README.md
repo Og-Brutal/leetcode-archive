@@ -76,7 +76,13 @@ The repository is structured logically to keep questions and solutions modular:
     ├── 2623_Memoize/
     │   ├── README.md                    # Question details & examples
     │   └── solution.js                  # JavaScript Solution
-    └── 2624_Snail_Traversal/
+    ├── 2624_Snail_Traversal/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.js                  # JavaScript Solution
+    ├── 2626_Array_Reduce_Transformation/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.js                  # JavaScript Solution
+    └── 2627_Debounce/
         ├── README.md                    # Question details & examples
         └── solution.js                  # JavaScript Solution
 ```
@@ -118,6 +124,8 @@ Below is the list of solved problems, categorized by domain and difficulty.
 | 2622 | [Cache With Time Limit](./JavaScript_Questions/2622_Cache_With_Time_Limit/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2622_Cache_With_Time_Limit/solution.js) |
 | 2623 | [Memoize](./JavaScript_Questions/2623_Memoize/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2623_Memoize/solution.js) |
 | 2624 | [Snail Traversal](./JavaScript_Questions/2624_Snail_Traversal/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2624_Snail_Traversal/solution.js) |
+| 2626 | [Array Reduce Transformation](./JavaScript_Questions/2626_Array_Reduce_Transformation/) | 🟢 Easy | JavaScript | [JS](./JavaScript_Questions/2626_Array_Reduce_Transformation/solution.js) |
+| 2627 | [Debounce](./JavaScript_Questions/2627_Debounce/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2627_Debounce/solution.js) |
 
 ---
 
@@ -131,13 +139,7 @@ Below is the list of solved problems, categorized by domain and difficulty.
 
 ## 🚀 How to Use
 
-1. Navigate to the folder corresponding to the problem domain (e.g., `Database_Questions`).
+1. Navigate to the folder corresponding to the problem domain (e.g., `Database_Questions` or `JavaScript_Questions`).
 2. Inside each problem folder, you will find:
    - A `README.md` describing the problem details, constraints, and examples.
-   - The query or code file (e.g., `solution.sql`) with the clean, tested code.
-
-
-
-
-
-
+   - The query or code file (e.g., `solution.sql` or `solution.js`) with the clean, tested code.
