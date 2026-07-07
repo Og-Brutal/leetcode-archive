@@ -82,7 +82,13 @@ The repository is structured logically to keep questions and solutions modular:
     ├── 2626_Array_Reduce_Transformation/
     │   ├── README.md                    # Question details & examples
     │   └── solution.js                  # JavaScript Solution
-    └── 2627_Debounce/
+    ├── 2627_Debounce/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.js                  # JavaScript Solution
+    ├── 2629_Function_Composition/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.js                  # JavaScript Solution
+    └── 2631_Group_By/
         ├── README.md                    # Question details & examples
         └── solution.js                  # JavaScript Solution
 ```
@@ -126,6 +132,9 @@ Below is the list of solved problems, categorized by domain and difficulty.
 | 2624 | [Snail Traversal](./JavaScript_Questions/2624_Snail_Traversal/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2624_Snail_Traversal/solution.js) |
 | 2626 | [Array Reduce Transformation](./JavaScript_Questions/2626_Array_Reduce_Transformation/) | 🟢 Easy | JavaScript | [JS](./JavaScript_Questions/2626_Array_Reduce_Transformation/solution.js) |
 | 2627 | [Debounce](./JavaScript_Questions/2627_Debounce/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2627_Debounce/solution.js) |
+| 2629 | [Function Composition](./JavaScript_Questions/2629_Function_Composition/) | 🟢 Easy | JavaScript | [JS](./JavaScript_Questions/2629_Function_Composition/solution.js) |
+| 2631 | [Group By](./JavaScript_Questions/2631_Group_By/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2631_Group_By/solution.js) |
+
 
 ---
 
