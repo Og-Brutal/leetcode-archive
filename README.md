@@ -88,7 +88,13 @@ The repository is structured logically to keep questions and solutions modular:
     ├── 2629_Function_Composition/
     │   ├── README.md                    # Question details & examples
     │   └── solution.js                  # JavaScript Solution
-    └── 2631_Group_By/
+    ├── 2631_Group_By/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.js                  # JavaScript Solution
+    ├── 2634_Filter_Elements_from_Array/
+    │   ├── README.md                    # Question details & examples
+    │   └── solution.js                  # JavaScript Solution
+    └── 2635_Apply_Transform_Over_Each_Element_in_Array/
         ├── README.md                    # Question details & examples
         └── solution.js                  # JavaScript Solution
 ```
@@ -134,6 +140,9 @@ Below is the list of solved problems, categorized by domain and difficulty.
 | 2627 | [Debounce](./JavaScript_Questions/2627_Debounce/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2627_Debounce/solution.js) |
 | 2629 | [Function Composition](./JavaScript_Questions/2629_Function_Composition/) | 🟢 Easy | JavaScript | [JS](./JavaScript_Questions/2629_Function_Composition/solution.js) |
 | 2631 | [Group By](./JavaScript_Questions/2631_Group_By/) | 🟡 Medium | JavaScript | [JS](./JavaScript_Questions/2631_Group_By/solution.js) |
+| 2634 | [Filter Elements from Array](./JavaScript_Questions/2634_Filter_Elements_from_Array/) | 🟢 Easy | JavaScript | [JS](./JavaScript_Questions/2634_Filter_Elements_from_Array/solution.js) |
+| 2635 | [Apply Transform Over Each Element in Array](./JavaScript_Questions/2635_Apply_Transform_Over_Each_Element_in_Array/) | 🟢 Easy | JavaScript | [JS](./JavaScript_Questions/2635_Apply_Transform_Over_Each_Element_in_Array/solution.js) |
+
 
 
 ---
